@@ -1,0 +1,38 @@
+[
+    {
+        "_id": 1,
+        "content": "Like us on Facebook! @asciifyfb"
+    },
+    {
+        "_id": 2,
+        "content": "Sitewide sale on New Years Day!"
+    },
+    {
+        "_id": 3,
+        "content": "Follow us on Instagram! @asciifyig"
+    },
+    {
+        "_id": 4,
+        "content": "Support us on Patreon! @asciifypat"
+    },
+    {
+        "_id": 5,
+        "content": "50% off selected items on Valentines Day!"
+    },
+    {
+        "_id": 6,
+        "content": "Subscribe to our Youtube Channel! @asciifyyt"
+    },
+    {
+        "_id": 7,
+        "content": "Have a face suggestion? Email us at suggest@asciify.com"
+    },
+    {
+        "_id": 8,
+        "content": "Follow us on Twitter! @asciifytweet"
+    },
+    {
+        "_id": 9,
+        "content": "Happy Holidays from ASCIIfy!"
+    }
+] 
